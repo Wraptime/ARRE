@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CameraMovementScript.js">
+    <Files>
+      <File FileName="Assets/MonkeyBehaviour.js" Line="12" Column="43" />
+      <File FileName="Assets/CameraMovementScript.js" Line="28" Column="23" />
+      <File FileName="Assets/Editor/QCAR/Scripts/AccessorFactory.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
